@@ -1,0 +1,4 @@
+/build/
+/tests/App/cache
+/tests/App/logs
+/vendor/
