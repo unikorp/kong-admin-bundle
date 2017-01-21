@@ -1,0 +1,3 @@
+# FrameworkBundle Configuration
+framework:
+    secret: This is a secret, change me
