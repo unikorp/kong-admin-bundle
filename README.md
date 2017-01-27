@@ -4,6 +4,7 @@
 [![Code Coverage](https://scrutinizer-ci.com/g/unikorp/kong-admin-bundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/unikorp/kong-admin-bundle/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unikorp/kong-admin-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unikorp/kong-admin-bundle/?branch=master)
 [![Dependency Status](https://dependencyci.com/github/unikorp/kong-admin-bundle/badge)](https://dependencyci.com/github/unikorp/kong-admin-bundle)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/7a1e59cb-93c0-4ee0-bd56-b37b7ca1891d/mini.png)](https://insight.sensiolabs.com/projects/7a1e59cb-93c0-4ee0-bd56-b37b7ca1891d)
 
 ## Installation
 
