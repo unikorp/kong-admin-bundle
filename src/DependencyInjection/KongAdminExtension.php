@@ -17,19 +17,14 @@ use Symfony\Component\DependencyInjection\Loader;
 use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 
 /**
- * kong admin extension
+ * Kong admin extension
  *
  * @author VEBER Arnaud <https://github.com/VEBERArnaud>
  */
 class KongAdminExtension extends Extension
 {
     /**
-     * load
-     *
-     * @param array $configs
-     * @param \Symfony\Component\DependencyInjection\ContainerBuilder $container
-     *
-     * @return void
+     * {@inheritdoc}
      */
     public function load(array $configs, ContainerBuilder $container)
     {
